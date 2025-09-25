@@ -3,6 +3,13 @@ background-color: cadetblue; /* cor de fundo da página */
 color: aliceblue; /* cor da escrita */
 } 
 
+header {
+    border: 2px rgb(148, 47, 47);
+    font-size: 32px;
+    padding: 10px;
+    color: rgb(41, 168, 168);
+}
+
 h1 {
     font-size: 30px; /* tamanho da fonte */
     text-align: center; /* centralizado /*
